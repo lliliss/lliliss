@@ -1,6 +1,6 @@
 # A little about me! {;
 
-- Me chamo Alice Ferreira, 20 anos.
+- Me chamo Alice Ferreira, 21 anos.
 - Sou estudante de Ciências da Computação no _Centro Universitário de Maceió_. 
 - Possuo certificações em HTML/CSS/JAVASCRIPT; 
 - Procuro aprimorar os meus conhecimentos em Python e paralelamente estudo Java.
