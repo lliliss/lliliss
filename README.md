@@ -1,12 +1,11 @@
 # A little about me! {;
 
-- Me chamo Alice Ferreira, 21 anos.
-- Sou estudante de Ciências da Computação no _Centro Universitário de Maceió_. 
-- Possuo certificações em HTML/CSS/JAVASCRIPT; 
-- Procuro aprimorar os meus conhecimentos em Python e paralelamente estudo Java.
-- Busco sempre aprimorar meus conhecimentos, tenho paixão em aprender.
+- My name's Alice Ferreira, 21 years.
+- I'm Computer Science student at _Centro Universitário de Maceió_. 
+- Certifications in HTML/CSS/JAVASCRIPT; 
+- I'm looking to improve my knowledge of Python and the same time i'm learning Java and Node.js.
 
-## 💻 Tecnologias! 
+## 💻 Technologies! 
 <!-- Imagens das tecnologias utilizadas -->
 <div style="display: inline_block"><br>
   <!--<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-->
@@ -16,7 +15,7 @@
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-## 🌷 Redes sociais! 
+## 🌷 Social media! 
  <!-- Redes sociais -->
  <!--[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.me/liices)-->
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lliceferreira)
