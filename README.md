@@ -13,6 +13,8 @@
   <!--<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">-->
   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Node.js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/node.js-original.svg">
+  <img align="center" alt="Express.js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/express.js-original.svg">
 </div>
   
 ## 🌷 Social media! 
