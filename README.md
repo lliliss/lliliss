@@ -3,7 +3,7 @@
 - My name's Alice Ferreira, 21 years.
 - I'm Computer Science student at _Centro Universitário de Maceió_. 
 - Certifications in HTML/CSS/JAVASCRIPT; 
-- I'm looking to improve my knowledge of Python and the same time i'm learning Java and Node.js.
+- I'm looking to improve my knowledge of Python and the same time i'm learning Java, Node.js and Express.js.
 
 ## 💻 Technologies! 
 <!-- Imagens das tecnologias utilizadas -->
