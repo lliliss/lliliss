@@ -1,9 +1,11 @@
 # A little about me! {;
 
-- My name's Alice Ferreira, 21 years.
-- I'm Computer Science student at _Centro Universitário de Maceió_. 
+- My name's Alice Ferreira, I'm 21 years.
+- I'm Computer Science student at _Centro Universitário de Maceió_-UNIMA/AFYA. 
 - Certifications in HTML/CSS/JAVASCRIPT; 
-- I'm looking to improve my knowledge of Python and the same time i'm learning Java, Node.js and Express.js.
+- I like to learn, i think very interesting the curious of learn.
+
+---
 
 ## 💻 Technologies! 
 <div style="display: inline_block"><br>
@@ -16,15 +18,16 @@
   <img align="center" alt="Node.js" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Express.js" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
 </div>
+
+---
   
 ## 🌷 Social media! 
- <!-- Redes sociais -->
- <!--[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.me/liices)-->
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lliceferreira)
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lliceferreira/)
 
-##
+---
 
+##
 <!-- GitHub Status -->
 <div style="text-align: center;" align="center">
   <br>
