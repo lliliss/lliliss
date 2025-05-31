@@ -17,6 +17,8 @@
   <img align="center" alt="Django" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threedsmax/threedsmax-original.svg">
   <img align="center" alt="Node.js" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Express.js" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="PostgreSQL" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="PostgreSQL" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 ---
