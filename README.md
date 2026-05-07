@@ -25,7 +25,7 @@
 - Front-End frameworks: React and Angular
 - Back-End frameworks: Spring Boot; Django; Flask; Node.js and Express.js
 - Database: PostgreSQL
-- UI/UX: Figma and Miro
+- UI/UX: Figma 
 - DevOps: Docker; Git Actions (Git, GitHub and GitLab); Vercel and AWS
 
 ----
@@ -56,7 +56,7 @@
 - Front-End frameworks: React e Angular
 - Back-End frameworks: Spring Boot; Django; Flask; Node.js e Express.js
 - Banco de dados: PostgreSQL
-- UI/UX: Figma e Miro
+- UI/UX: Figma 
 - DevOps: Docker; Git Actions (Git, GitHub and GitLab); Vercel e AWS
 
 <picture>
