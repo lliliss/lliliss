@@ -1,48 +1,65 @@
-# Me! {;
+🇺🇸
+# Hiii, I'm Alice Ferreira! (;
 
-- My name's Alice Ferreira, I'm 22 years.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lliceferreira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lliceferreira/)
+
+> 🌷 Developer passionate about building solutions and exploring new technologies.
+
+---
+
+## About Me
+
+- 🎂 I'm 22 years old
+- 💻 Software Engineer in training
+- 📫 How to reach me? 
+- Email: [alicefc.arco@gmail.com](mailto:alicefc.arco@gmail.com)
+- Social: ig | linkedin
+- ✨My skills: English (Intermediate); Spanish (Basic) and Italian (Beginner)
 
 ---
 
-## 💻 Technologies! 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threedsmax/threedsmax-original.svg">
-  <img align="center" alt="Node.js" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Express.js" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
-  <img align="center" alt="PostgreSQL" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="MySQL" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-</div>
+## Tech Stack & Tools
+
+- Languages: Python; TypeScript; JavaScript and Java
+- Front-End frameworks: React and Angular
+- Back-End frameworks: Spring Boot; Django; Flask; Node.js and Express.js
+- Database: PostgreSQL
+- UI/UX: Figma and Miro
+- DevOps: Docker; Git Actions (GitHub and GitLab); Vercel and AWS
+
+----
+
+🇵🇹
+# Oiii, me chamo Alice Ferreira! (;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lliceferreira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lliceferreira/)
+
+> 🌷 Desenvolvedora apaixonada por criar soluções e explorar novas tecnologias.
 
 ---
-  
-## 🌷 Social media! 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lliceferreira)
- [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lliceferreira/)
 
+## Sobre mim
 
-<!--
+- 🎂 Tenho 22 anos
+- 💻 Engenheira de Software em formação
+- 📫 Como me encontrar? 
+- Email: [alicefc.arco@gmail.com](mailto:alicefc.arco@gmail.com)
+- Social: ig | linkedin
+- ✨Minhas habilidades: Inglês (Intermediário); Espanhol (Básico) e Italiano (Iniciante)
+
 ---
 
-##
-<div style="text-align: center;" align="center">
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lliliss&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=radical" alt="github status">
+## Tecnologias & Ferramentas
 
-  <a href="https://github.com/lliliss/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lliliss&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div> -->
+- Linguagens: Python; TypeScript; JavaScript e Java
+- Front-End frameworks: React e Angular
+- Back-End frameworks: Spring Boot; Django; Flask; Node.js e Express.js
+- Banco de dados: PostgreSQL
+- UI/UX: Figma e Miro
+- DevOps: Docker; Git Actions (GitHub and GitLab); Vercel e AWS
 
-##
-
-<!-- Cobrinha comendo commits -->
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lliliss/lliliss/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lliliss/lliliss/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lliliss/lliliss/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/lliliss/lliliss/output/github-contribution-grid-snake.svg" alt="snake animation">
 </picture>
