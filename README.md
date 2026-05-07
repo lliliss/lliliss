@@ -26,7 +26,7 @@
 - Back-End frameworks: Spring Boot; Django; Flask; Node.js and Express.js
 - Database: PostgreSQL
 - UI/UX: Figma and Miro
-- DevOps: Docker; Git Actions (GitHub and GitLab); Vercel and AWS
+- DevOps: Docker; Git Actions (Git, GitHub and GitLab); Vercel and AWS
 
 ----
 
@@ -57,7 +57,7 @@
 - Back-End frameworks: Spring Boot; Django; Flask; Node.js e Express.js
 - Banco de dados: PostgreSQL
 - UI/UX: Figma e Miro
-- DevOps: Docker; Git Actions (GitHub and GitLab); Vercel e AWS
+- DevOps: Docker; Git Actions (Git, GitHub and GitLab); Vercel e AWS
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lliliss/lliliss/output/github-contribution-grid-snake-dark.svg">
