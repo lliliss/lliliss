@@ -22,8 +22,8 @@
 ## Tech Stack & Tools
 
 - Languages: Python; TypeScript; JavaScript and Java
-- Front-End frameworks: React and Angular
-- Back-End frameworks: Spring Boot; Django; Flask; Node.js and Express.js
+- Front-End frameworks: React
+- Back-End frameworks: Spring Boot; Node.js and Express.js
 - Database: PostgreSQL
 - UI/UX: Figma 
 - DevOps: Docker; Git Actions (Git, GitHub and GitLab); Vercel and AWS
@@ -53,8 +53,8 @@
 ## Tecnologias & Ferramentas
 
 - Linguagens: Python; TypeScript; JavaScript e Java
-- Front-End frameworks: React e Angular
-- Back-End frameworks: Spring Boot; Django; Flask; Node.js e Express.js
+- Front-End frameworks: React
+- Back-End frameworks: Spring Boot; Node.js e Express.js
 - Banco de dados: PostgreSQL
 - UI/UX: Figma 
 - DevOps: Docker; Git Actions (Git, GitHub and GitLab); Vercel e AWS
