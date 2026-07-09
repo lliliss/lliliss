@@ -11,7 +11,7 @@
 ## About Me
 
 - 🎂 I'm 22 years old
-- 💻 Software Engineer in training
+- 💻 Software Engineer/Systems Analyst
 - 📫 How to reach me? 
 - Email: [alicefc.arco@gmail.com](mailto:alicefc.arco@gmail.com)
 - Social: ig | linkedin
@@ -42,7 +42,7 @@
 ## Sobre mim
 
 - 🎂 Tenho 22 anos
-- 💻 Engenheira de Software em formação
+- 💻 Engenheira de Software/Analista de Sistemas
 - 📫 Como me encontrar? 
 - Email: [alicefc.arco@gmail.com](mailto:alicefc.arco@gmail.com)
 - Social: ig | linkedin
