@@ -11,11 +11,11 @@
 ## About Me
 
 - 🎂 I'm 22 years old
-- 💻 Software Engineer/Systems Analyst
+- 💻 Systems Analyst
 - 📫 How to reach me? 
 - Email: [alicefc.arco@gmail.com](mailto:alicefc.arco@gmail.com)
 - Social: ig | linkedin
-- ✨My skills: English (Intermediate); Spanish (Basic) and Italian (Beginner)
+- ✨My skills: English (Intermediate); Spanish (Basic) and French (Begineer)
 
 ---
 
@@ -46,7 +46,7 @@
 - 📫 Como me encontrar? 
 - Email: [alicefc.arco@gmail.com](mailto:alicefc.arco@gmail.com)
 - Social: ig | linkedin
-- ✨Minhas habilidades: Inglês (Intermediário); Espanhol (Básico) e Italiano (Iniciante)
+- ✨Minhas habilidades: Inglês (Intermediário); Espanhol (Básico) e Francês (Iniciante)
 
 ---
 
