@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td align="center"><b>DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vercel" alt="DevOps" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git" alt="DevOps" /></td>
   </tr>
   <tr>
     <td align="center"><b>UI/UX</b></td>
